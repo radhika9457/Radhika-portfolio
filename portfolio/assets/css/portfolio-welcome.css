@@ -1,0 +1,53 @@
+/**
+ * Welcome panel (second page) – configuration
+ * Use these rules to customize format, color, and image for #welcome only.
+ * Uncomment and change values as needed.
+ */
+
+/* ----- Section (entire panel) – contrasting background vs first page ----- */
+#welcome.panel-welcome {
+	background: linear-gradient(135deg, #2d3a4a 0%, #3d4f5f 50%, #4a6178 100%);
+}
+
+/* ----- Content block (text side) – cool slate/blue gradient, light text ----- */
+#welcome .content-welcome {
+	background-image: url("../../images/overlay.png"), linear-gradient(135deg, #2d3a4a 0%, #3d4f5f 50%, #4a6178 100%);
+	background-size: 128px 128px, auto;
+	color: #fff;
+	padding: 3.5rem 3.5rem 2rem 3.5rem;
+}
+
+#welcome .content-welcome .major {
+	color: #fff;
+}
+
+#welcome .content-welcome p {
+	color: rgba(255, 255, 255, 0.92);
+	line-height: 1.6;
+}
+
+#welcome .content-welcome .button.primary {
+	color: rgba(255, 255, 255, 0.95);
+	border-color: rgba(255, 255, 255, 0.4);
+}
+
+#welcome .content-welcome .button.primary:hover {
+	color: #fff;
+	border-color: rgba(255, 255, 255, 0.7);
+}
+
+/* ----- Image block (image column) ----- */
+#welcome .image-welcome {
+	background: rgba(255, 255, 255, 0.06);
+	max-width: 22rem;
+}
+
+#welcome .image-welcome img {
+	object-fit: cover;
+	object-position: 25% 25%;
+}
+
+/* Softer overlay so image stands out next to slate background */
+#welcome .image-welcome.filtered:after {
+	opacity: 0.65;
+}

@@ -1,0 +1,40 @@
+/**
+ * Portfolio custom overrides: Compact layout, Gallery modal caption
+ */
+
+/* ----- Compact page: reduce panel padding and spacing (smaller, standard length) ----- */
+.panel > .intro {
+	padding: 1.25rem 1.75rem 0.75rem 1.75rem !important;
+}
+.panel > .inner {
+	padding: 0.75rem 1.75rem 1.5rem 1.75rem !important;
+}
+.panel > .inner p {
+	margin-bottom: 0.6rem;
+}
+.panel > .inner p:last-child {
+	margin-bottom: 0;
+}
+.panel > .intro p {
+	margin-bottom: 0.5rem;
+}
+/* Education intro (joined) – less bottom padding when followed by .inner */
+.panel > .intro.joined {
+	padding-bottom: 0.5rem !important;
+}
+.panel > .intro.joined + .inner {
+	padding-top: 0.5rem !important;
+}
+
+/* ----- Gallery modal: project title below image ----- */
+/* ----- Gallery lightbox: project title below the image ----- */
+.gallery .modal .inner .caption {
+	display: block;              /* show the caption (title from data-title) */
+	margin-top: 1rem;            /* space between image and caption */
+	padding: 0.5rem 0;           /* vertical padding around caption text */
+	font-size: 0.95rem;          /* caption text size (slightly smaller than body) */
+	line-height: 1.4;           /* line spacing for multi-line titles */
+	color: rgba(255, 255, 255, 0.9);  /* light text (90% white) on dark modal */
+	text-align: center;          /* centre the caption */
+	max-width: 90vw;             /* don't stretch caption wider than 90% of viewport */
+}
