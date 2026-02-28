@@ -16,19 +16,8 @@ Photoshop · Canva · CorelDRAW · Visual design · Branding
 
 ## How to view
 
-1. Open `portfolio/index.html` in a browser, or  
-2. Host the `portfolio` folder on any static hosting (e.g. GitHub Pages) and visit the site URL.
+1. Open `index.html` in a browser, or  
+2. Host the folder on any static hosting (e.g. GitHub Pages) and visit the site URL.
 
-## Repository structure
-
-```
-├── portfolio/
-│   ├── index.html          # Main portfolio page
-│   ├── assets/             # CSS, JS, fonts, images
-│   └── images/             # Portfolio images and gallery
-└── README.md
-```
-
----
 
 *Clean, engaging design for people and brands.*
