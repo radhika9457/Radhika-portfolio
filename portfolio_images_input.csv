@@ -2,17 +2,17 @@ Section,Input Image Path,Position,Width,Height,Max Width (px),Max Height (px),Ob
 Banner,images/pic01.jpg,right,auto,100%,,,cover,Radhika Agrawal,Graphic Designer Portfolio – Radhika Agrawal,1,,Hero image next to intro text
 About,images/pic02.jpg,left,,,800,600,cover,About me visual,About Me – Creative visual storytelling,2,,Spotlight image behind About text
 Experience,images/pic03.jpg,right,42%,100%,420,,contain,Grand Opening design sample,Grand Opening – Restaurant launch poster (Dampier Nagar),3,,Partial right - plain background
-Gallery,images/work/garg collection.jpg,bottom,,,800,800,cover,Clothing Advertisement Flyer,Clothing Advertisement Flyer,1,1,span-3 data-position bottom
-Gallery,images/work/White Milk Tea Advertisement Instagram Post.jpg,center,,,800,800,cover,White Milk Tea Advertisement,White Milk Tea – Advertisement Instagram Post,2,2,span-1-5 data-position center
-Gallery,images/work/Blue Yellow Simple Modern Property Advertisment Instagram.jpg,bottom,,,800,800,cover,Property Advertisement,Property Advertisement – Real estate Instagram ad,3,3,span-1-5 data-position bottom
-Gallery,images/work/Brown and Gold Minimalist Jewelry Sale Promotion Instagram Post.png,top,,,800,800,cover,Jewelry Sale Promotion,Jewelry Sale Promotion – Minimalist jewellery campaign,4,4,span-2-5 data-position top
-Gallery,images/work/Cream Brown Simple Chocolate Ice Cream Promotion A4 Document .png,center,,,800,800,cover,Chocolate Ice Cream A4 Promotion,Chocolate Ice Cream – A4 promotion document,5,5,span-1-5 data-position center
-Gallery,images/work/Fashion Flyer .png,bottom,,,800,800,cover,Fashion Flyer,Fashion Flyer – Event or brand flyer,6,6,span-1-5 data-position bottom
-Gallery,images/work/XUV 7XO 2.jpg,center,,,800,800,cover,XUV 7XO 2,XUV 7XO – Automotive / vehicle design,7,7,span-1-5 data-position center
-Gallery,images/work/furniture 2.0.jpg,center,,,800,800,cover,Furniture 2.0,Furniture – Product or brand visual,8,8,span-1-5 data-position center
-Gallery,images/work/Yellow and White Clean Makeup Price List Instagram Reel.jpg,top,,,800,800,cover,Saloon Advertisement Instagram Reel,Saloon Advertisement Instagram Reel,9,9,span-1-5 data-position top
-Gallery,images/work/Happy Valentine's Day.jpg,center,,,800,800,cover,Happy Valentine's Day,Happy Valentine's Day – Promotional design,10,10,span-2-5 data-position center
-Gallery,images/work/Black Stroke Grand Opening Restaurant Food Instagram Story.png,bottom,,,800,800,cover,Restaurant Grand Opening Story,Restaurant Grand Opening – Food Instagram Story,11,11,span-1-5 data-position bottom
-Gallery,images/work/Gold White Jewelry Instagram Post.jpg,top,,,800,800,cover,Jhankar Jewellers - Social Media Post,Jhankar Jewellers - Social Media Post,12,12,span-1-5 data-position top
-Gallery,images/work/furniture 2.0.jpg,center,,,800,800,cover,Furniture 2.0,Furniture – Product or brand visual,13,13,span-1-5 data-position center
-Gallery,images/work/jewellers banner.jpg,center,,,800,800,cover,Devki Jewellers,Devki Jewellers – Jewellers banner,14,14,span-3 data-position center
+Gallery,images/webp/garg collection.webp,bottom,,,800,800,cover,Clothing Advertisement Flyer,Clothing Advertisement Flyer,1,1,span-3 data-position bottom
+Gallery,images/webp/White Milk Tea Advertisement Instagram Post.webp,center,,,800,800,cover,White Milk Tea Advertisement,White Milk Tea – Advertisement Instagram Post,2,2,span-1-5 data-position center
+Gallery,images/webp/Blue Yellow Simple Modern Property Advertisment Instagram.webp,bottom,,,800,800,cover,Property Advertisement,Property Advertisement – Real estate Instagram ad,3,3,span-1-5 data-position bottom
+Gallery,images/webp/Brown and Gold Minimalist Jewelry Sale Promotion Instagram Post.webp,top,,,800,800,cover,Jewelry Sale Promotion,Jewelry Sale Promotion – Minimalist jewellery campaign,4,4,span-2-5 data-position top
+Gallery,images/webp/Cream Brown Simple Chocolate Ice Cream Promotion A4 Document .webp,center,,,800,800,cover,Chocolate Ice Cream A4 Promotion,Chocolate Ice Cream – A4 promotion document,5,5,span-1-5 data-position center
+Gallery,images/webp/Fashion Flyer .webp,bottom,,,800,800,cover,Fashion Flyer,Fashion Flyer – Event or brand flyer,6,6,span-1-5 data-position bottom
+Gallery,images/webp/XUV 7XO 2.webp,center,,,800,800,cover,XUV 7XO 2,XUV 7XO – Automotive / vehicle design,7,7,span-1-5 data-position center
+Gallery,images/webp/furniture 2.0.webp,center,,,800,800,cover,Furniture 2.0,Furniture – Product or brand visual,8,8,span-1-5 data-position center
+Gallery,images/webp/Yellow and White Clean Makeup Price List Instagram Reel.webp,top,,,800,800,cover,Saloon Advertisement Instagram Reel,Saloon Advertisement Instagram Reel,9,9,span-1-5 data-position top
+Gallery,images/webp/Happy Valentine's Day.webp,center,,,800,800,cover,Happy Valentine's Day,Happy Valentine's Day – Promotional design,10,10,span-2-5 data-position center
+Gallery,images/webp/Black Stroke Grand Opening Restaurant Food Instagram Story.webp,bottom,,,800,800,cover,Restaurant Grand Opening Story,Restaurant Grand Opening – Food Instagram Story,11,11,span-1-5 data-position bottom
+Gallery,images/webp/Gold White Jewelry Instagram Post.webp,top,,,800,800,cover,Jhankar Jewellers - Social Media Post,Jhankar Jewellers - Social Media Post,12,12,span-1-5 data-position top
+Gallery,images/webp/furniture 2.0.webp,center,,,800,800,cover,Furniture 2.0,Furniture – Product or brand visual,13,13,span-1-5 data-position center
+Gallery,images/webp/jewellers banner.webp,center,,,800,800,cover,Devki Jewellers,Devki Jewellers – Jewellers banner,14,14,span-3 data-position center
